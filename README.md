@@ -2,7 +2,7 @@
 
 # Démineur 
 
-## Installation 
+### Installation 
 
 
 
@@ -12,7 +12,7 @@ random
 
 
 
-## Game
+### Game
 
 Il suffit de cliquer en ne tombant pas sur les bombes.
 
