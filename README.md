@@ -4,13 +4,8 @@
 
 ### Installation 
 
-
-
 tkinter
 random
-
-
-
 
 ### Game
 
